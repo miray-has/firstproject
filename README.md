@@ -4,14 +4,14 @@ My first project which displays if a number given is between 1 and 10.
 
 # Installation
 
-`npm i firstproject --save`
+`npm i miraysfirstproject --save`
 
 Then...
 
 ...
-import { firstproject } from 'firstprokect';
+import { miraysfirstproject } from 'miraysfirstproject';
 
-firstproject({
+miraysfirstproject({
 number: 5
 });
 ...

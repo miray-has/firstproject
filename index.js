@@ -1,4 +1,4 @@
-function firstproject(options) {
+function miraysfirstproject(options) {
     if (options <= 1) {
         console.log("this number is smaller than 1");
     } else if (options > 1 && options < 10) {
@@ -6,4 +6,4 @@ function firstproject(options) {
     }
 }
 
-module.exports.firstproject = firstproject;
+module.exports.miraysfirstproject = miraysfirstproject;
